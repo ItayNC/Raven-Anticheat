@@ -3,7 +3,8 @@
 Showcase: [Video](https://www.youtube.com/watch?v=ZT7NHSIkD_c)
 Anti Aimbot: [Video](https://www.youtube.com/watch?v=nF5VjLvVPwk)
 
-Discord: https://discord.gg/ravenac
+Website: https://ravenac.net/
+Discord: https://ravenac.net/discord
 
 <img width="618" height="153" alt="banner_1" src="https://github.com/user-attachments/assets/66af49d6-2932-4965-b8c4-2e13d19828cf" />
 
