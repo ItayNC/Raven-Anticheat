@@ -1,81 +1,34 @@
-# Raven Anticheat | Best Fivem Anticheat of 2026
+# Raven Anticheat - Dashboard
 
-Showcase: [Video](https://www.youtube.com/watch?v=ZT7NHSIkD_c)
-Anti Aimbot: [Video](https://www.youtube.com/watch?v=nF5VjLvVPwk)
+> Silent and powerful Fivem server protection. Dual client + server-side detection, cloud admin panel, global ban database.
 
-Website: https://ravenac.net/
+[![Site](https://img.shields.io/badge/site-www.ravenac.net-FFC300)](https://www.ravenac.net)
+[![Discord](https://img.shields.io/badge/Discord-join-5865F2)](https://www.ravenac.net/discord)
+[![Lifetime $100](https://img.shields.io/badge/Lifetime-%24100-FFC300)](https://www.ravenac.net/#pricing)
 
-Discord: https://ravenac.net/discord
+This is the Next.js dashboard that ships with [Raven Anticheat](https://www.ravenac.net) - the Fivem resource that protects roleplay and PvP servers from cheats, mod menus, Lua executors, aimbot/ESP, and event abuse.
 
-<img width="618" height="153" alt="banner_1" src="https://github.com/user-attachments/assets/66af49d6-2932-4965-b8c4-2e13d19828cf" />
+---
 
-# Features:
+## What Raven Anticheat does
 
-**Basic**:
-Discord Logs,
-Anti No Props,
-Anti Fire Event,
-Anti Fast Ladder,
-Bypass System,
-Advanced Ban System,
-Suspicious Game Stats,
-Anti Damage Manipulation,
-Advanced Clipboard Scanner,
-Resources Stopper Detection,
-Anti Entity Coords Manipulation,
-Many More...
+- **Dual-layer detection** - Client-side anti-injection + server-side event/trust validation. Both layers active by default.
+- **Mod menu coverage** - Eulen, Redengine, HamMafia, Susano, TZ, TZX, Skript.gg and many more.
+- **Cloud admin panel** - Live player map (GTA V), trust scoring, evidence screenshots, session replay, Discord role sync.
+- **Global ban database** - Cross-server ban sharing.
+- **Framework support** - ESX, QBCore, vRP, QBox, Standalone (auto-detected).
+- **Setup in ~2 minutes** - Drop the resource, add `ensure rac` to `server.cfg`, restart.
+- **Performance** - Under 0.5ms on Fivem resource monitor.
+- **Updates** - Released every 1–7 days.
 
-**Peds Tasks**:
-Anti Give Ped Tasks,
-Anti Clear Ped Tasks (2 Types)
+## Get it
 
-**Anti Voice Spoofing**:
-Maximum Range,
-Whitelist Ranges
+| Plan | Price |
+|---|---|
+| Monthly | $20 |
+| Quarterly | $50 |
+| **Lifetime** | **$100 (one-time)** |
 
-**Anti Vehicle Teleport Hijack**:
-Maximum Distance,
-Only With Driver,
-Whitelist Vehicles
+Licenses are sold exclusively at [www.ravenac.net](https://www.ravenac.net). There are no third-party resellers.
 
-**Heart Beat**:
-Heartbeat System
-Spoofing Coords
-Spoofing Ped Model
-
-**Entities Security**:
-Peds,
-Vehicles,
-Objects,
-Whitelist Entities,
-Whitelist Resources
-
-**Particles Protection**:
-Maximum Scale,
-Anti Spam,
-Whitelist Particles
-
-**Explosions Protection**:
-Anti Fake Explosions,
-Anti Spam,
-Whitelist Explosions
-
-**Events**:
-Server Events Protection,
-Whitelist Events,
-Whitelist Resources
-
-**Anti Overlay**:
-TZ,
-Eulen,
-Macho,
-Susano,
-RedEngine,
-HX Softwares,
-Many More...
-
-**Weapons**:
-Anti Aimbot,
-Spoof Bullet Shot,
-Anti Give Weapon,
-Anti Remove Weapon
+→ **[Buy a license](https://www.ravenac.net/#pricing)** · **[Documentation](https://docs.ravenac.net)** · **[Discord](https://www.ravenac.net/discord)** · **[Compare to other anticheats](https://www.ravenac.net/compare)**
